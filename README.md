@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hotel Management System
 
 ## Setup
@@ -40,3 +41,6 @@ npm run dev
 cd "C:\Users\Acer\Documents\VS Projects\Hotel Management System\client"
 npm run dev
 ```
+=======
+# hotel-management-system--website
+>>>>>>> ef24feb118ccb96d0229a529299d03ff705217f1
